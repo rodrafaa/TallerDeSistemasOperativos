@@ -1,1 +1,13 @@
-<img width="695" height="693" alt="Maquina virtual - Rodrigo F" src="https://github.com/user-attachments/assets/6b3fa3dd-1602-4587-b5d7-79d8d65f4d2a" />
+# BITACORA DE CLASE
+## Tareas de clase
+
+Parcial 1
+Tareas a tomar en cuenta:
+
+Tarea #999 Crear cuenta de github y repositorio
+Tarea #998 Llevar una bitacora de clase
+Tarea #997 Practica de comandos
+Tarea #995 Realizar los niveles gratuitos de vimadventures
+Tarea #994 Instalar Virtualbox y alguna distribucion de Linux
+
+Fecha limite 19/09/2025
