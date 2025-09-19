@@ -7,7 +7,8 @@
 ![Alt text](https://github.com/rodrafaa/TallerDeSistemasOperativos/blob/main/Cuenta%20Git%20y%20Repositorio.png?raw=true)
 3. Tarea #998 Llevar una bitacora de clase ✅
 4. Tarea #997 Practica de comandos ✅
-5. Tarea #995 Realizar los niveles gratuitos de vimadventures ✅
-6. Tarea #994 Instalar Virtualbox y alguna distribucion de Linux ✅
+![no se](https://github.com/rodrafaa/TallerDeSistemasOperativos/blob/main/Tarea%20-%20pr%C3%A1tica%20de%20comands.jpeg?raw=true)
+6. Tarea #995 Realizar los niveles gratuitos de vimadventures ✅
+7. Tarea #994 Instalar Virtualbox y alguna distribucion de Linux ✅
 
 ### Fecha limite 19/09/2025
