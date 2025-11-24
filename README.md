@@ -12,3 +12,29 @@
 7. Tarea #994 Instalar Virtualbox y alguna distribucion de Linux ✅
 
 ### Fecha limite 19/09/2025
+
+### Parcial 2
+### Tareas a tomar en cuenta:
+
+Tarea #996 Realizar los ejercicios de bandit en overthewire
+Tarea #993 Hacer un menú en bash
+Tarea #992 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
+Tarea #991 Compartir una noticia
+Tarea #990 Realizar una investigacion de la unidad 1
+Tarea #989 Realizar el modulo Linux Fundamentals de TryHackMe
+Tarea #988 Realizar el modulo de Windows Fundamentals de TryHackMe
+
+Fecha limite 24/10/2025
+
+### Fecha limite 
+
+### Parcial 3
+### Tareas a tomar en cuenta:
+
+1.Tarea #982 Realizar el curso de AWS Academy Cloud Foundations
+2. Tarea #981 Realizar los ejercicios de linuxsurvival.com
+3. Tarea #980 Realizar los ejercicios de cmdchallenge.com
+4. Tarea #979 Realizar los ejercicios de hackerrank.com/domains/shell
+5. Tarea #978 Realizar un juego en bash
+
+### Fecha limite 28/11/2025
