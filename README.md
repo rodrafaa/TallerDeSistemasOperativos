@@ -16,13 +16,13 @@
 ### Parcial 2
 ### Tareas a tomar en cuenta:
 
-Tarea #996 Realizar los ejercicios de bandit en overthewire
-Tarea #993 Hacer un menú en bash
-Tarea #992 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
-Tarea #991 Compartir una noticia
-Tarea #990 Realizar una investigacion de la unidad 1
-Tarea #989 Realizar el modulo Linux Fundamentals de TryHackMe
-Tarea #988 Realizar el modulo de Windows Fundamentals de TryHackMe
+1. Tarea #996 Realizar los ejercicios de bandit en overthewire
+2. Tarea #993 Hacer un menú en bash
+3. Tarea #992 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
+4. Tarea #991 Compartir una noticia
+5. Tarea #990 Realizar una investigacion de la unidad 1
+6. Tarea #989 Realizar el modulo Linux Fundamentals de TryHackMe
+7. Tarea #988 Realizar el modulo de Windows Fundamentals de TryHackMe
 
 Fecha limite 24/10/2025
 
