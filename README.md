@@ -38,6 +38,7 @@ Fecha limite 24/10/2025
 [📄 Ver PDF](cmdchallenge%20-%20Documentación.pdf)
 6. Tarea #979 Realizar los ejercicios de hackerrank.com/domains/shell ✅
 ![Alt text](hackerrank%20-%20level.png)
-8. Tarea #978 Realizar un juego en bash
+8. Tarea #978 Realizar un juego en bash ✅
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/59b09ee6-57cf-44ee-8970-fa6a6189e50b" />
 
 ### Fecha limite 28/11/2025
