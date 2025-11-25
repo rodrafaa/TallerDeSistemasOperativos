@@ -32,7 +32,7 @@ Fecha limite 24/10/2025
 ### Tareas a tomar en cuenta:
 
 1. Tarea #982 Realizar el curso de AWS Academy Cloud Foundations
-2. Tarea #981 Realizar los ejercicios de linuxsurvival.com
+2. Tarea #981 Realizar los ejercicios de linuxsurvival.com ✅
 3. Tarea #980 Realizar los ejercicios de cmdchallenge.com
 4. Tarea #979 Realizar los ejercicios de hackerrank.com/domains/shell
 5. Tarea #978 Realizar un juego en bash
