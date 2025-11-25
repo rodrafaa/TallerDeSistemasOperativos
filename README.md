@@ -36,7 +36,8 @@ Fecha limite 24/10/2025
 [📄 Ver PDF](Linux%20survival%20-%20Documentación.pdf)
 4. Tarea #980 Realizar los ejercicios de cmdchallenge.com ✅
 [📄 Ver PDF](cmdchallenge%20-%20Documentación.pdf)
-6. Tarea #979 Realizar los ejercicios de hackerrank.com/domains/shell
-7. Tarea #978 Realizar un juego en bash
+6. Tarea #979 Realizar los ejercicios de hackerrank.com/domains/shell ✅
+![Alt text](hackerrank%20-%20level.png)
+8. Tarea #978 Realizar un juego en bash
 
 ### Fecha limite 28/11/2025
