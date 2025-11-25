@@ -33,8 +33,9 @@ Fecha limite 24/10/2025
 
 1. Tarea #982 Realizar el curso de AWS Academy Cloud Foundations
 2. Tarea #981 Realizar los ejercicios de linuxsurvival.com ✅
-3. Tarea #980 Realizar los ejercicios de cmdchallenge.com
-4. Tarea #979 Realizar los ejercicios de hackerrank.com/domains/shell
-5. Tarea #978 Realizar un juego en bash
+[📄 Ver documento PDF](Linux survival - Documentación.pdf)
+4. Tarea #980 Realizar los ejercicios de cmdchallenge.com
+5. Tarea #979 Realizar los ejercicios de hackerrank.com/domains/shell
+6. Tarea #978 Realizar un juego en bash
 
 ### Fecha limite 28/11/2025
